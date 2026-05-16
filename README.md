@@ -37,6 +37,9 @@
 
 ## 📬 Reach Out to Me
 
-[![Email](https://img.shields.io/badge/Email-yourname%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:weijin090@gmail.com)  
-[![GitHub](https://github.com/AsahiPieEthan)  
-[![LinkedIn](https://www.linkedin.com/in/wei-jin-pan-838517334/)
+[![Email](https://img.shields.io/badge/Email-weijin090%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:weijin090@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-AsahiPieEthan-black?style=for-the-badge&logo=github)](https://github.com/AsahiPieEthan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wei_Jin_Pan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wei-jin-pan-838517334/)
+
+---
+<img width="498" height="281" alt="frieren-sitting-by-the-river-dancing-9od2h1pqpullv5wm" src="https://github.com/user-attachments/assets/a7cc62e9-569f-47ad-aeee-dfa5d33530cf" />
