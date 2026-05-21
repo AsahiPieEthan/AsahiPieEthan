@@ -18,7 +18,7 @@
 - JavaScript & APIs
 - Node.js
 - Phyton for AI
-
+- ML
 
 ---
 
